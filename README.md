@@ -4,9 +4,9 @@ This assignment includes the basic fundamentals of manual testing. It consists t
 Software testing,
 Manual/automation testing,
 Why testing is necessary,
-Testing activities, Testing objectives
+Testing activities, Testing objectives,
 When to start & stop software testing,
-7 key principles, software architecture,
+7 key principles, Software architecture,
 SDLC & phases, SRS, Models : Waterfall, V-model, Incremental model, Spiral model, Agile model,
-USe case diagram,
+Use case diagram,
 OOP concepts.
